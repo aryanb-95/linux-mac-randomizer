@@ -18,7 +18,7 @@ Maintaining privacy while testing network security can be tedious. This script t
 ### How to use
 
 1. **Ensure macchanger is installed:**
-```bash
+```
 sudo apt update && sudo apt install macchanger
 ```
 
